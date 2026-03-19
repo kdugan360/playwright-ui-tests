@@ -1,21 +1,17 @@
 # Playwright UI Tests
 
-This project demonstrates automated UI testing using Playwright and TypeScript.
+This project demonstrates UI test automation concepts using Playwright and TypeScript.
 
 ## Test Scenarios
 - Valid login
 - Invalid login
 - Form validation
 
-## Tools Used
+## Tools
 - Playwright
 - TypeScript
 - JavaScript
-- HTML/CSS (for UI inspection)
-
-## How to Run
-1. npm install
-2. npx playwright test
+- HTML/CSS
 
 ## Goal
-Practice writing UI automation tests and validating user workflows.
+Show understanding of UI automation structure and test scenarios.
